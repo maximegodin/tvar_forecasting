@@ -1,4 +1,13 @@
-
+#-------------------------------------------------------------------------
+#  This file is part of the TVAR forecasting application https://github.com/maximegodin/tvar_forecasting
+#
+#  This application is governed by the MIT license. 
+#  You can  use, modify and/ or redistribute this code under the terms
+#  of the MIT license:  https://opensource.org/licenses/MIT
+#
+#  Maxime Godin, Amina Bouchafaa, Ecole Polytechnique
+#  March 29th, 2018
+#-------------------------------------------------------------------------
 
 library(Rcpp)
 library(reshape2)
